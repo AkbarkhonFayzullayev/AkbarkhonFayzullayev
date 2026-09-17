@@ -22,10 +22,6 @@ Aspiring Full-Stack Developer, currently learning the **MERN Stack** (MongoDB, E
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Akbarxon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkbarkhonFayzullayev&show_icons=true&theme=default)
-
 ## 🎯 Currently Learning
 Node.js → Express → building full projects with the MERN stack
 
