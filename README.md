@@ -26,4 +26,4 @@ Aspiring Full-Stack Developer, currently learning the **MERN Stack** (MongoDB, E
 Node.js → Express → building full projects with the MERN stack
 
 ---
-⭐️ From [YOUR_USERNAME](https://github.com/AkbarkhonFayzullayev)
+⭐️ From Akbarxon Fayzullayev (https://github.com/AkbarkhonFayzullayev)
