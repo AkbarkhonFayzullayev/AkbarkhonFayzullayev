@@ -3,7 +3,7 @@
 Aspiring Full-Stack Developer, currently learning the **MERN Stack** (MongoDB, Express, React, Node.js)
 
 - 🎓 Software Engineering student at KIUT (Kimyo International University in Tashkent)
-- 🌱 Currently learning **Node.js**, working toward full-stack MERN development
+- 🌱 Currently learning **React.js**, working toward full-stack MERN development
 - 💻 Self-taught HTML, CSS & JavaScript
 - 📚 Completed a 9-month Python/Django/PostgreSQL course at Najot Ta'lim
 - 🗣️ Learning English, preparing for IELTS
