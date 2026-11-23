@@ -4,8 +4,8 @@ Aspiring Full-Stack Developer, currently learning the **MERN Stack** (MongoDB, E
 
 - 🎓 Software Engineering student at KIUT (Kimyo International University in Tashkent)
 - 🌱 Currently learning **React.js**, working toward full-stack MERN development
-- 💻 Self-taught HTML, CSS & JavaScript
-- 📚 Completed a 9-month Python/Django/PostgreSQL course at Najot Ta'lim
+- 💻 Self-taught HTML, CSS & JavaScript, Node.js, Express.js
+- 📚 Completed a 9-month Python/Django/DRF/PostgreSQL course at Najot Ta'lim
 - 🗣️ Learning English, preparing for IELTS
 - 📫 Reach me at: akbarxonfayzullayev123@gmail.com
 
@@ -23,7 +23,7 @@ Aspiring Full-Stack Developer, currently learning the **MERN Stack** (MongoDB, E
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🎯 Currently Learning
-Node.js → Express → building full projects with the MERN stack
+Node.js → Express.js →  MongoDB → React.js →  building full projects with the MERN stack
 
 ---
 ⭐️ From Akbarxon Fayzullayev (https://github.com/AkbarkhonFayzullayev)
